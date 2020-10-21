@@ -13,8 +13,8 @@
 
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
-	printf("Bagas Bangkit Pambudi");
-        printf("H1A018042");
+	printf("Bima Adityo Kurniawan");
+        printf("H1A018048");
 	int a = 5;
 	int b = 4;
 	int c = a + b;
